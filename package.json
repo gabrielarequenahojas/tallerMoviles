@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gabrielarequenahojas/tallerMoviles#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "json-server": "^0.15.1"
   }
 }
